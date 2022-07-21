@@ -1,4 +1,6 @@
 package project1;
+
+//default constructor
 class studentdetails{
 	int id;
 	String name;
@@ -7,6 +9,7 @@ class studentdetails{
 		System.out.println(id+" "+name+" "+course);
 	}
 }
+//parameterized constructor
 class empdetails{
 	int id;
 	String name;
