@@ -5,7 +5,7 @@ import java.util.*;
 public class Maps {
 
 	public static void main(String[] args) {
-		//Hashmap
+		//HashMap
 		HashMap<Integer,String>hm= new HashMap<Integer,String>();
 		hm.put(1,"sam");
 		hm.put(2,"dean");
