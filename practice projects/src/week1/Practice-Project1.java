@@ -1,5 +1,4 @@
-package project1;
-
+package week1;
 public class Typecasting {
 
 	public static void main(String[] args) {

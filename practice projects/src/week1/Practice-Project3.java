@@ -1,6 +1,5 @@
-package project1;
- 
-public class Methods {
+package week1;
+public class Method {
 	
 //normal method	
 int add(int a,int b) {
@@ -16,7 +15,7 @@ int cal(int value) {
 
 //call by reference
 int val =10;
-void operation(Methods m) {
+void operation(Method m) {
 	m.val =val+100;
 }
 
@@ -29,7 +28,7 @@ void area(int c) {
 	System.out.println("area of circle is "+(3.14*c*c));
 }
 public static void main(String[] args) {
-	Methods m =new Methods();
+	Method m =new Method();
 	int res =m.add(12,13);
 	System.out.println("the result for normal method is "+res+"\n");
 	System.out.println("the call by value method");

@@ -1,5 +1,4 @@
-package project1;
-
+package week1;
 //default constructor
 class studentdetails{
 	int id;

@@ -1,4 +1,4 @@
-package project1;
+package week1;
 class daspecifier
 {
 	void display() {
@@ -20,7 +20,7 @@ class proaccessspecifier{
 		System.out.println("it is protected access specifier");
 	}
 }
-public class Accessmodifiers extends proaccessspecifier{
+public class AccessModifiers extends proaccessspecifier{
 
 	public static void main(String[] args) {
 		//default access specifier

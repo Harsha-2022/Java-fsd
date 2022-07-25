@@ -1,5 +1,4 @@
-package project1;
-
+package week1;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

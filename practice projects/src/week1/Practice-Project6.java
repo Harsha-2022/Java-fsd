@@ -1,5 +1,4 @@
-package project1;
-
+package week1;
 import java.util.*;
 
 public class Maps {

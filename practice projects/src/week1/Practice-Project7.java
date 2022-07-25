@@ -1,4 +1,4 @@
-package project1;
+package week1;
 public class Innerclass1 {
 	//inner class type1
 	private String message="hello sam";
